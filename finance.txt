@@ -9,3 +9,5 @@ App ads + fremium plan + susbcription = 6,99 a month or 80 euros a year
 marketing 11% = 40150
 commercial
 offices 1020202 per month and per day
+
+this is so cool!
